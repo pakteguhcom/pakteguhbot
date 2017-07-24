@@ -25,7 +25,7 @@
   },
   "log": {
     "comment": "The channel, group, or user to send error reports to. Is number and not quoted.",
-    "CHANNEL":
+    "CHANNEL":-1001064774946
   },
   "bing": {
     "comment": "https://www.microsoft.com/cognitive-services/en-us/bing-web-search-api",
