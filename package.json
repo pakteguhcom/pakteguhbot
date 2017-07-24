@@ -1,7 +1,7 @@
 {
-  "name": "tgramindobot",
-  "version": "3.3.0",
-  "description": "A simple, plugin-wielding, and multipurpose Node.js Telegram bot.",
+  "name": "pakteguhbot",
+  "version": "1.1.0",
+  "description": "Pak Teguh Telegram bot.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rizaumami/TGramIndoBot"
+    "url": "https://github.com/rizau/TGramIndoBot"
   },
-  "author": "Sahri Riza Umami <riza@openmailbox.org>",
+  "author": "Pak Teguh <admin@pakteguh.com>",
   "license": "AGPL-3.0",
   "dependencies": {
     "adhan": "^2.0.1",
