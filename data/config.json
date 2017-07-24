@@ -21,7 +21,7 @@
   },
   "sudo": {
     "comment": "Bot owner ID number. Is number and not quoted.",
-    "ID":
+    "ID": 341566634
   },
   "log": {
     "comment": "The channel, group, or user to send error reports to. Is number and not quoted.",
