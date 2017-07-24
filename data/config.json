@@ -9,7 +9,7 @@
   },
   "bot": {
     "token_comment": "Your authorization token from the @botfather. Is string and quoted.",
-    "TOKEN": "",
+    "TOKEN": "431679847:AAESqaSJcELGzJwNtvqxrnyQQJgFqaz-nuY",
     "id_comment": "Bots ID number. It is numbers before colon in bots token. Is number and not quoted.",
     "ID": ,
     "uname_comment": "Bots username - without @",
