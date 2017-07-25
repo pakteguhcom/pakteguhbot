@@ -83,4 +83,4 @@ $ git push openshift master --force
 
 ## Lisensi
 
-Dirilis dibawah lisensi AGPL-v3.0, lihat berkas [LICENSE](https://github.com/rizaumami/TGramIndoBot/blob/master/LICENSE).
+Dirilis dibawah lisensi AGPL-v3.0, lihat berkas [LICENSE](https://github.com/pakteguh/pakteguhbot/blob/master/LICENSE).
