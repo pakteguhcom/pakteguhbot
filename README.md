@@ -1,6 +1,6 @@
-<p align="center">Pak Teguh Bot
+#<p align="center">Pak Teguh Bot
 
-<p align="center">Sebuah bot Telegram sederhana untuk memoderasi grup
+###<p align="center">Sebuah bot Telegram sederhana untuk memoderasi grup
 
 `PakTeguhBot` adalah sebuah bot sederhana untuk memoderasi grup [Telegram Indonesia](https://t.me/pakteguhcom).  
 Bot ini adalah _fork_ dari [ThorsHammer](https://github.com/kamikazechaser/ThorsHammer) _branch_ `openshift` yang ditulis dalam JavaScript dan menggunakan mongoDB sebagai _database_.
