@@ -1,13 +1,13 @@
-# <p align="center">TGramIndoBot
+<p align="center">Pak Teguh Bot
 
-### <p align="center">Sebuah bot Telegram sederhana untuk memoderasi grup
+<p align="center">Sebuah bot Telegram sederhana untuk memoderasi grup
 
-`TGramIndoBot` adalah sebuah bot sederhana untuk memoderasi grup [Telegram Indonesia](https://t.me/tgramindo).  
+`PakTeguhBot` adalah sebuah bot sederhana untuk memoderasi grup [Telegram Indonesia](https://t.me/pakteguhcom).  
 Bot ini adalah _fork_ dari [ThorsHammer](https://github.com/kamikazechaser/ThorsHammer) _branch_ `openshift` yang ditulis dalam JavaScript dan menggunakan mongoDB sebagai _database_.
 
-`TGramIndoBot` dikhususkan untuk diterapkan di [OpenShift](https://www.openshift.com/). Jika Anda membutuhkan bot yang bisa diterapkan ke layanan lain, silahkan rujuk [ThorsHammer](https://github.com/kamikazechaser/ThorsHammer).
+`PakTeguhbot` dikhususkan untuk diterapkan di [OpenShift](https://www.openshift.com/). Jika Anda membutuhkan bot yang bisa diterapkan ke layanan lain, silahkan rujuk [ThorsHammer](https://github.com/kamikazechaser/ThorsHammer).
 
-Silakan coba [@tgramindobot](https://t.me/tgramindobot) untuk demo.
+Silakan coba [@pakteguhbot](https://t.me/pakteguhbot) untuk demo.
 
 ### Perintah
 
@@ -63,8 +63,8 @@ Baca informasi lebih lanjut mengenai _privacy_ [di sini](https://core.telegram.o
 $ node -v
 
 # Clone repo
-$ git clone https://github.com/rizaumami/TGramIndoBot.git
-$ cd TGramIndoBot
+$ git clone https://github.com/pakteguh/pakteguhbot.git
+$ cd pakteguhbot
 # Pastikan semua baris dalam data/config.json diisi!
 
 # Masuk ke dalam akun Openshift web console Anda
